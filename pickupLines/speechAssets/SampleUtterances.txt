@@ -1,0 +1,9 @@
+GetNewPickupLineIntent a pickup line
+GetNewPickupLineIntent a nerdy pickup line
+GetNewPickupLineIntent a geeky pickup line
+GetNewPickupLineIntent tell me a nerdy pickup line
+GetNewPickupLineIntent tell me a geeky pickup line
+GetNewPickupLineIntent tell me a pickup line
+GetNewPickupLineIntent give me a nerdy pickup line
+GetNewPickupLineIntent give me a geeky pickup line
+GetNewPickupLineIntent give me a pickup line
